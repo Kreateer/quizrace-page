@@ -1,1 +1,3 @@
-var s="/assets/Quizrace.58b45e21.png";export{s as _};
+var _imports_0 = "/assets/Quizrace.58b45e21.png";
+export { _imports_0 as _ };
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUXVpenJhY2UuNWYzNjdhODIuanMiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9hc3NldHMvUXVpenJhY2UucG5nIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiX19WSVRFX0FTU0VUX181OGI0NWUyMV9fXCIiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsSUFBZSxhQUFBOzsifQ==

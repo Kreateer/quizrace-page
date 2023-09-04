@@ -1,0 +1,144 @@
+
+.overlay[data-v-9da1576a] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(5x);
+          backdrop-filter: blur(5x);
+}
+.overlay-content[data-v-9da1576a] {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 600px;
+  height: 500px;
+  overflow: hidden;
+}
+.end-overlay[data-v-9da1576a]{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(5x);
+          backdrop-filter: blur(5x);
+  pointer-events: none;
+}
+.text-wrapper[data-v-9da1576a]{
+  display: inline-block;
+  overflow: hidden;
+  width: auto;
+  height: 50%;
+}
+.text[data-v-9da1576a] {
+  font-size: x-large;
+  font-weight: bold;
+  text-align: center;
+  white-space: pre-line;
+  overflow:visible
+}
+.back-button[data-v-9da1576a] {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.page-content[data-v-9da1576a] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-height: 100%;
+  max-width: 100%;
+}
+.road[data-v-9da1576a]{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: rubberBand 1s ease
+}
+.cars[data-v-9da1576a]{
+  animation: fadeIn 1s ease;
+}
+.car[data-v-9da1576a] {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.car1[data-v-9da1576a]{
+  position: absolute;
+  top: 80%;
+  left: 20%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.car2[data-v-9da1576a]{
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.car3[data-v-9da1576a]{
+  position: absolute;
+  top: 80%;
+  left: 60%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.car4[data-v-9da1576a]{
+  position: absolute;
+  top: 80%;
+  left: 80%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.car5[data-v-9da1576a]{
+  position: absolute;
+  top: 80%;
+  left: 65%;
+  transform: translateX(-50%);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

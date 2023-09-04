@@ -1,0 +1,53 @@
+
+.q-column-card[data-v-01a60ec4] {
+  width: 320px; /* Set the width of the columns */
+  height: 400px; /* Set the height of the columns */
+  border: 1px solid #ccc;
+  overflow: hidden;
+}
+.q-column-card-section[data-v-01a60ec4] {
+  max-height: 300px; /* set the maximum height for the list to make it scrollable */
+}
+.q-list[data-v-01a60ec4] {
+  list-style-type: none;
+  padding: 0;
+}
+.q-list li[data-v-01a60ec4] {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  padding: 5px; /* Padding between new lines */
+}
+.scrollable-list[data-v-01a60ec4] {
+  max-height: 100%; /* Set the maximum height for the list to make it scrollable */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+.grid-container[data-v-01a60ec4] {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  justify-items: center;
+  align-items: center;
+  gap: 0px;
+}
+.user-input-row[data-v-01a60ec4] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  gap: 8px;
+}
+.back-button[data-v-01a60ec4] {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.start-button[data-v-01a60ec4] {
+  margin-top: 50px;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+/* Add any other custom styles you need here */
